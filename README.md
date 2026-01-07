@@ -1,1 +1,1 @@
-## Git$GitHub 특강
+## Git&GitHub 특강
