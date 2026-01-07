@@ -1,6 +1,6 @@
 ---
 name: Custom issue template
-about: 커스텀이슈템플릿
+about: bug_request.md
 title: ''
 labels: ''
 assignees: ''
